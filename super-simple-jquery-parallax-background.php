@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Super Simple jQuery Parallax Background
-Plugin URI: http://example.com/#sspb
+Plugin URI: https://github.com/tcg/super-simple-jquery-parallax-background
 Description: For themes with background images, creates a parallax effect when scrolling. Super simple; no configuration. Just works.
 Author: Tommy George
 Author URI: https://twitter.com/tommygeorge
